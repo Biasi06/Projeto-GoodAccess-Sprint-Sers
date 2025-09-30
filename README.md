@@ -47,6 +47,7 @@ Diagramas de blocos, fluxogramas e imagens do protótipo físico ou simulado dev
 [ Painel Solar ] → [ Inversor Goodwe ] → [ Baterias ] ↓ [ Controlador de Carga ] ↓ [ Sensores ] → [ ESP32 ] → [ Automação Residencial ] ←→ [ Assistente Virtual ] ↓ [ Dashboard Node-RED / Grafana ]
 
 
+
 ## Conexão com a Disciplina
 
 Este projeto aplica conceitos fundamentais da disciplina, como:
@@ -58,8 +59,16 @@ Este projeto aplica conceitos fundamentais da disciplina, como:
 
 ## Organização do Repositório
 
-Projeto-GoodAccess-Sprint-Sers/ │ ├── README.md # Documento explicativo do projeto ├── Código/ # Scripts e códigos-fonte │ ├── sensores/ # Código dos sensores │ ├── automacao/ # Scripts de automação │ └── dashboard/ # Visualização de dados ├── Diagramas/ # Diagramas de blocos e fluxogramas ├── Imagens/ # Fotos do protótipo físico ou simulações ├── Instrucoes/ # Guia de instalação e uso └── Video/ # Referência ao vídeo técnico
-
+Projeto-GoodAccess-Sprint-Sers/  
+├── README.md                  → Documento explicativo do projeto  
+├── Código/                    → Scripts e códigos-fonte  
+│   ├── sensores/              → Código dos sensores  
+│   ├── automacao/             → Scripts de automação  
+│   └── dashboard/             → Visualização de dados  
+├── Diagramas/                → Diagramas de blocos e fluxogramas  
+├── Imagens/                  → Fotos do protótipo físico ou simulações  
+├── Instrucoes/               → Guia de instalação e uso  
+└── Video/                    → Referência ao vídeo técnico
 
 ## Instruções de Funcionamento
 
